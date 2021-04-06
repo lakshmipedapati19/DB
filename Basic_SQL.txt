@@ -1,7 +1,7 @@
 SQL:
 Structured Query Language is a standard language used for the storing the data,manipulating the data and retriving the data from database
 Types of sql commands:
-1.DDL:Create,alter,drop,truncate,rename
-2.DML:insert,update,delete,select
-3.TCL:commit,rollback,savepoint
-4.DCL:Grant,revoke.
+1.DDL:Create,Dlter,Drop,Truncate,Rename
+2.DML:Insert,Update,Delete,Select
+3.TCL:Commit,Rollback,Savepoint
+4.DCL:Grant,Revoke.
